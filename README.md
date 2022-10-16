@@ -24,9 +24,23 @@ screenshot showing conversation while booking tickets
 
 screenshot showing conversation while booking tickets
 
+## steps involved in creating chatbot
+###Step 1: Creating an agent
+I have created an agent called movieBooking, which is used to handle conversation with your end-users.
+
+![image](https://user-images.githubusercontent.com/99713423/196046461-2e323e44-b92c-4636-8aac-d095c623e622.png)
+
+Step 3: Defining Entities
+Entities can be fields, data, or text describing just about anything — a time, place, person, item, number, etc. Using natural language processing (NLP), chatbots can extract entities from entries that users type in in order to turn around accurate recommendations and answers.
+
+Step 4: Intents
+Intent refers to the goal that customer has in mind when typing in a question or comment. While entity refers to the modifier the customer uses to describe their issue, intent is what they really mean.
+Here are my intents
+![1b](https://user-images.githubusercontent.com/99713423/196046557-93670025-eb2c-406a-8159-13cf72c81947.jpg)
 
 
-
+Step 5: Training phrases
+Training phrases are example phrases for what end-users might type or say, referred to as end-user expressions. For each intent, you create many training phrases. When an end-user expression resembles one of these phrases, Dialogflow matches the intent.
 
 
 ##                                  The End
