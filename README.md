@@ -43,6 +43,13 @@ Step 5: Training phrases
 Training phrases are example phrases for what end-users might type or say, referred to as end-user expressions. For each intent, you create many training phrases. When an end-user expression resembles one of these phrases, Dialogflow matches the intent.
 
 
+Step 6: Actions and parameters
+Dialogflow sends an API interaction response for each step of slot filling. For each of these slot filling responses, the intent and action will be the same, and the parameters collected so far will be provided. When building an agent, we provide prompts that the agent will use to get parameter data from the end-user.
+
+Step 7: Responses
+The responses available are Text, Option, Pause and Image. I used only the text response type which is used for ordinary text responses.
+
+
 ##                                  The End
 
 
