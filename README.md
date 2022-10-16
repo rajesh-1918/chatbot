@@ -50,7 +50,11 @@ Step 7: Responses
 The responses available are Text, Option, Pause and Image. I used only the text response type which is used for ordinary text responses.
 ![1d](https://user-images.githubusercontent.com/99713423/196046825-8593d327-63d6-4338-a5b4-2c098476226f.jpg)
 
+## Limitations
+This chatbot requires lot more intents to make it robust
 
+## Learnings
+Building simple chartbot using google dialogeflow
 
 ##                                  The End
 
