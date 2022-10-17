@@ -3,13 +3,13 @@
 # chatbot for booking movie tickets
 
 ## Objective
-This chatbot is bulit reduce human efforts and automate ticket vending at Movie theatre.
-This chatbot can be deployed at theatre itself
-## Methodlogy 
-the entire porcess of ticketing is studied and noted down to bulit this chartbot
+This chatbot is built to reduce human efforts and automate ticket vending at the Movie theatre. 
+This chatbot can be deployed at the theatre itself
+## Methodology  
+the entire process of ticketing is studied and noted down to build this chatbot
 ## tools used
-Google's DialogFlow platform is being used in entire process of building process
-## following is the link to access chatbot
+Google's DialogFlow platform is being used in entire process of the building process
+## following is the link to access the chatbot
 https://bot.dialogflow.com/626fae83-8c2a-4302-9cea-3ebf7dc72d93
 ## screenshots showing functioning of chartbot
 ![1](https://user-images.githubusercontent.com/99713423/196033770-ceac64ac-fd21-4e9f-bda9-aeae7458ad7a.jpg)
@@ -24,14 +24,14 @@ screenshot showing conversation while booking tickets
 
 screenshot showing conversation while booking tickets
 
-## steps involved in creating chatbot
+## steps involved in creating a chatbot
 ###Step 1: Creating an agent
-I have created an agent called movieBooking, which is used to handle conversation with your end-users.
+I have created an agent called movie Booking, which is used to conversations with your end users.
 
 ![image](https://user-images.githubusercontent.com/99713423/196046461-2e323e44-b92c-4636-8aac-d095c623e622.png)
 
 Step 3: Defining Entities
-Entities can be fields, data, or text describing just about anything — a time, place, person, item, number, etc. Using natural language processing (NLP), chatbots can extract entities from entries that users type in in order to turn around accurate recommendations and answers.
+Entities can be fields, data, or text describing just about anything — a time, place, person, item, number, etc. Using natural language processing (NLP), chatbots can extract entities from entries that users type in order to turn around accurate recommendations and answers.
 
 Step 4: Intents
 Intent refers to the goal that customer has in mind when typing in a question or comment. While entity refers to the modifier the customer uses to describe their issue, intent is what they really mean.
